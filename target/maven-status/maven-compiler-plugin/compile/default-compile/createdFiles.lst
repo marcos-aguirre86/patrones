@@ -1,0 +1,7 @@
+pe/com/intercorpretail/clientes/ClientesApplication.class
+pe/com/intercorpretail/clientes/service/ClienteService.class
+pe/com/intercorpretail/clientes/configuracion/SwaggerConfig.class
+pe/com/intercorpretail/clientes/repository/ClienteRepository.class
+pe/com/intercorpretail/clientes/dao/ClienteDao.class
+pe/com/intercorpretail/clientes/controller/ClienteController.class
+pe/com/intercorpretail/clientes/dto/ClienteDto.class

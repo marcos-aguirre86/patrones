@@ -1,0 +1,7 @@
+/home/marcos/Escritorio/intercorpretail/src/main/java/pe/com/intercorpretail/clientes/dao/ClienteDao.java
+/home/marcos/Escritorio/intercorpretail/src/main/java/pe/com/intercorpretail/clientes/repository/ClienteRepository.java
+/home/marcos/Escritorio/intercorpretail/src/main/java/pe/com/intercorpretail/clientes/controller/ClienteController.java
+/home/marcos/Escritorio/intercorpretail/src/main/java/pe/com/intercorpretail/clientes/ClientesApplication.java
+/home/marcos/Escritorio/intercorpretail/src/main/java/pe/com/intercorpretail/clientes/configuracion/SwaggerConfig.java
+/home/marcos/Escritorio/intercorpretail/src/main/java/pe/com/intercorpretail/clientes/dto/ClienteDto.java
+/home/marcos/Escritorio/intercorpretail/src/main/java/pe/com/intercorpretail/clientes/service/ClienteService.java
