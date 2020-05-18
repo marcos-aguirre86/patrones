@@ -1,1 +1,1 @@
-# intercorpretail
+# PATRONE DE SISEÑO
