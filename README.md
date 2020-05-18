@@ -1,2 +1,1 @@
-# patrones
-Patrones de diseños
+# intercorpretail
